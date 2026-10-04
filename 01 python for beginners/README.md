@@ -1,7 +1,7 @@
 ### 🐍 Level of what you've learned
 
 **Beginner / Fundamentals:**
-- First Python program
+- [x] First Python program
 - [x] Variables
 - [x] `input()`
 - [x] Data types
@@ -34,19 +34,8 @@
 - [ ] Iterators & generators
 - [ ] `lambda`, `map`, `filter`
 - [ ] Testing
-- [x] [] Virtual environments
+- [x] Virtual environments
 - [x] `pip`
 - [x] Git/GitHub
 
-**Advanced Python:**
-- [ ] Decorators
-- [ ] Context managers
-- [ ] Descriptors
-- [ ] Metaclasses
-- [ ] Advanced generators/iterators
-- [ ] Async programming (`asyncio`)
-- [ ] Concurrency/multiprocessing
-- [ ] Python internals
-- [ ] Performance optimization
-- [ ] Design patterns
 
