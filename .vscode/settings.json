@@ -1,0 +1,14 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "github.copilot.renameSuggestions.triggerAutomatically": false, 
+    "[jupyter]": {
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+}, 
+    "editor.mouseWheelZoom": true,
+    "editor.inlineSuggest.enabled": false,
+} 
