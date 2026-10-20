@@ -86,6 +86,14 @@ After learning the basics, study: https://www.coursera.org/learn/python-data/hom
 
 Goal: Become comfortable working with and manipulating data in Python.
 
+## 2. Wes McKinney - Python for Data Analysis
+
+- https://wesmckinney.com/book/
+
+## 2.  3Blue1Brown - Essence of Linear Algebra
+
+- https://lnkd.in/dDuDakvZ
+
 ---
 # 💻 2.2 Build Python Projects
 
