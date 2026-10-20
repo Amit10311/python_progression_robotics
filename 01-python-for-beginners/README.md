@@ -32,7 +32,7 @@
 - [ ] List/dict comprehensions
 - [x] `*args`, `**kwargs`
 - [ ] Iterators & generators
-- [ ] `lambda`, `map`, `filter`
+- [x] `lambda`, `map`, `filter`
 - [ ] Testing
 - [x] Virtual environments
 - [x] `pip`
@@ -44,6 +44,8 @@
 **Python for Beginners - Learn Coding with Python in 1 Hour Basic level-** https://youtu.be/kqtD5dpn9C8?si=nx_qagC_5CVn4Go5 
 
 **Python Fundamentals by automaticaddison-** https://automaticaddison.com/tutorials/#Python_Fundamentals - Best 
+
+**Python Tutorials -** https://youtube.com/playlist?list=PLSK7NtBWwmpSUenWrmUh0ND_l023RPAXK&si=eHqqYpNCpDG0yYDK - Best 
 
 **Python Full Course for Beginners in 2 Hours -**  https://youtu.be/K5KVEU3aaeQ?si=318NPr-QeGJOF36I
 

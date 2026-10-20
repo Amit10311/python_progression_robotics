@@ -6,6 +6,8 @@
 
 **Python Fundamentals by automaticaddison-** https://automaticaddison.com/tutorials/#Python_Fundamentals - Best 
 
+**Python Tutorials -** https://www.youtube.com/playlist?list=PLSK7NtBWwmpSUenWrmUh0ND_l023RPAXK - Best 
+
 **Python Full Course for Beginners in 2 Hours -**  https://youtu.be/K5KVEU3aaeQ?si=318NPr-QeGJOF36I
 
 **Main online course -** https://cs50.harvard.edu/python/
