@@ -8,6 +8,8 @@
 
 **Python Full Course for Beginners in 2 Hours -**  https://youtu.be/K5KVEU3aaeQ?si=318NPr-QeGJOF36I
 
+**Main online course -** https://cs50.harvard.edu/python/
+
 ### 🐍 Level of what you've learned
 
 **Beginner / Fundamentals:**
